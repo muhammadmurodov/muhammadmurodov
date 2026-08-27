@@ -32,7 +32,7 @@ I care about leakage-safe evaluation, documenting a model's information ceiling,
 
 ## 🚀 Featured Projects
 
-### 🏛️ my.gov.uz RAG — Uzbek Government-Services Q&A
+### 🏛️ my.gov.uz RAG — Uzbek Government-Services Q&A &nbsp;![WIP](https://img.shields.io/badge/status-actively%20developing-F59E0B?style=flat-square)
 > Retrieval-augmented Q&A over the public service catalog of [my.gov.uz](https://my.gov.uz),
 > answering **Uzbek & Russian** questions about documents, fees, deadlines, and steps —
 > grounded strictly in the scraped corpus, and it **refuses rather than guesses** when out of scope.
@@ -45,6 +45,8 @@ I care about leakage-safe evaluation, documenting a model's information ceiling,
 
 `Python · Postgres/pgvector · bge-m3 · cross-encoder rerank · OpenRouter · Open WebUI · Docker`
 &nbsp;→ **[repo](https://github.com/muhammadmurodov/my-gov-chatbot)**
+
+> 🚧 **Currently working on this** — actively refining retrieval quality, the grounding gate, and the corpus.
 
 ---
 
