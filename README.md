@@ -7,9 +7,10 @@
 I build machine-learning systems end-to-end — from messy raw data to evaluated, honest models.
 I care about leakage-safe evaluation, documenting a model's information ceiling, and shipping things that actually run.
 
-<a href="https://github.com/muhammadmurodov"><img src="https://img.shields.io/badge/GitHub-muhammadmurodov-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
+<a href="https://www.linkedin.com/in/muhammad-murodov"><img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Murodov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://t.me/Muhammad_Murodov"><img src="https://img.shields.io/badge/Telegram-@Muhammad__Murodov-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
 <a href="mailto:muhammad.murodov.2006@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<img src="https://img.shields.io/badge/Location-Tashkent,%20UZ-2E7D32?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location">
+<a href="https://github.com/muhammadmurodov"><img src="https://img.shields.io/badge/GitHub-muhammadmurodov-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
 
 </div>
 
@@ -53,34 +54,7 @@ I care about leakage-safe evaluation, documenting a model's information ceiling,
 - Documented the model's information ceiling instead of overfitting
 
 `HistGradientBoosting · scikit-learn · pandas`
-
----
-
-### 🚇 Metro Passenger Flow Forecasting
-> Short-term forecasting of Tashkent metro passenger volumes — AI/ML capstone.
-
-- Time-series modeling of station-level demand
-
-`Python · Jupyter`
-&nbsp;→ **[repo](https://github.com/muhammadmurodov/metro-flow-forecasting)**
-
----
-
-### 🐝 Beekeeping — Bee Health Detection
-> Computer-vision model classifying bee / hive images with **YOLOv8**.
-
-- Object-detection pipeline for agricultural monitoring
-
-`YOLOv8 · Python`
-&nbsp;→ **[repo](https://github.com/muhammadmurodov/Beekeeping)**
-
----
-
-### 🐳 Docker Mini Project
-> Containerized application demonstrating Docker fundamentals — build, run, and deploy a service in an isolated container.
-
-`Docker`
-&nbsp;→ **[repo](https://github.com/muhammadmurodov/docker-mini-project)**
+&nbsp;→ **[notebook](https://colab.research.google.com/drive/1XavMAtZnnur9kx9BFMqLJJkTeBhpnElF?usp=sharing)**
 
 ---
 
@@ -93,6 +67,6 @@ I care about leakage-safe evaluation, documenting a model's information ceiling,
 
 <br><br>
 
-📫 **[muhammad.murodov.2006@gmail.com](mailto:muhammad.murodov.2006@gmail.com)** · Based in Tashkent, UZ
+📫 **[Email](mailto:muhammad.murodov.2006@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/muhammad-murodov)** · **[Telegram](https://t.me/Muhammad_Murodov)** · Based in Tashkent, UZ
 
 </div>
